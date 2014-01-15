@@ -153,7 +153,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 <exit id="cKB-Tm-B6u" userLabel="Exit" sceneMemberID="exit"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="30S-kr-jjM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2013" y="-424"/>
+            <point key="canvasLocation" x="1896" y="-200"/>
         </scene>
         <!--Item Detial View Controller-->
         <scene sceneID="BQW-Za-HGt">
@@ -241,7 +241,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZqA-cf-vfs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1284" y="612"/>
+            <point key="canvasLocation" x="1284" y="460"/>
         </scene>
         <!--Modified View Controller-->
         <scene sceneID="h3r-JA-Xp7">
@@ -339,7 +339,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rHQ-pb-ys0" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="V9m-zD-jGo" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1856" y="611"/>
+            <point key="canvasLocation" x="1896" y="460"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="DDo-vW-KMR">
@@ -376,7 +376,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zH9-SO-DNj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1284" y="-424"/>
+            <point key="canvasLocation" x="1284" y="-206"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
