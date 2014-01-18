@@ -28,7 +28,10 @@
 		FDA8DAA8187AC1E300D492BC /* fish.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDA8DAA4187AC1E300D492BC /* fish.jpg */; };
 		FDA8DAA9187AC1E300D492BC /* milk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDA8DAA5187AC1E300D492BC /* milk.jpg */; };
 		FDA8DAAC187AC74800D492BC /* XYZItem.m in Sources */ = {isa = PBXBuildFile; fileRef = FDA8DAAB187AC74800D492BC /* XYZItem.m */; };
+<<<<<<< HEAD
 		FDDF85FB187E386500211BEB /* default.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDF85FA187E386500211BEB /* default.jpg */; };
+=======
+>>>>>>> lxf-github/master
 		FDF42891186810ED00D80FC7 /* XYZAddToDoItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF42890186810ED00D80FC7 /* XYZAddToDoItemViewController.m */; };
 		FDF428971868146500D80FC7 /* XYZToDoListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF428961868146500D80FC7 /* XYZToDoListViewController.m */; };
 		FDF4289A1868205500D80FC7 /* XYZToDoItem.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF428991868205500D80FC7 /* XYZToDoItem.m */; };
@@ -74,7 +77,10 @@
 		FDA8DAA5187AC1E300D492BC /* milk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = milk.jpg; sourceTree = "<group>"; };
 		FDA8DAAA187AC74800D492BC /* XYZItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYZItem.h; sourceTree = "<group>"; };
 		FDA8DAAB187AC74800D492BC /* XYZItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYZItem.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		FDDF85FA187E386500211BEB /* default.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = default.jpg; sourceTree = "<group>"; };
+=======
+>>>>>>> lxf-github/master
 		FDF4288F186810ED00D80FC7 /* XYZAddToDoItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XYZAddToDoItemViewController.h; path = ../XYZAddToDoItemViewController.h; sourceTree = "<group>"; };
 		FDF42890186810ED00D80FC7 /* XYZAddToDoItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XYZAddToDoItemViewController.m; path = ../XYZAddToDoItemViewController.m; sourceTree = "<group>"; };
 		FDF428951868146500D80FC7 /* XYZToDoListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XYZToDoListViewController.h; path = ../XYZToDoListViewController.h; sourceTree = "<group>"; };
@@ -192,7 +198,10 @@
 		FDA8DAA1187AC08000D492BC /* Images */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				FDDF85FA187E386500211BEB /* default.jpg */,
+=======
+>>>>>>> lxf-github/master
 				FDA8DAA2187AC1E300D492BC /* apple.jpg */,
 				FDA8DAA3187AC1E300D492BC /* egg.jpg */,
 				FDA8DAA4187AC1E300D492BC /* fish.jpg */,
@@ -313,7 +322,10 @@
 				FD65A17418656DA6003B26F5 /* Images.xcassets in Resources */,
 				FDA8DAA7187AC1E300D492BC /* egg.jpg in Resources */,
 				FDA8DAA9187AC1E300D492BC /* milk.jpg in Resources */,
+<<<<<<< HEAD
 				FDDF85FB187E386500211BEB /* default.jpg in Resources */,
+=======
+>>>>>>> lxf-github/master
 				FDA8DAA8187AC1E300D492BC /* fish.jpg in Resources */,
 				FD368EA0187AB5BC00CE3741 /* ItemList.plist in Resources */,
 				FDA8DAA6187AC1E300D492BC /* apple.jpg in Resources */,

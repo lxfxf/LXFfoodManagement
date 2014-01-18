@@ -16,4 +16,8 @@
 @property XYZToDoItem *toDoItem;
 @property XYZItem *item;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> lxf-github/master
 @end

@@ -143,9 +143,13 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                     </navigationItem>
                     <connections>
                         <outlet property="OutDate" destination="DHm-Xn-UzM" id="uUf-zm-3lH"/>
+<<<<<<< HEAD
                         <outlet property="addImageButton" destination="p0Y-wU-C37" id="2tr-Pl-mvd"/>
                         <outlet property="doneButton" destination="iSA-ce-v15" id="C4i-wc-kHT"/>
                         <outlet property="itemImage" destination="UEB-F6-QKW" id="EEq-Fw-V91"/>
+=======
+                        <outlet property="doneButton" destination="iSA-ce-v15" id="C4i-wc-kHT"/>
+>>>>>>> lxf-github/master
                         <outlet property="itemType" destination="Bk2-bt-rZV" id="ijT-HW-s5i"/>
                         <outlet property="textField" destination="trJ-Au-xAX" id="WDl-li-QGm"/>
                     </connections>
@@ -153,7 +157,11 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 <exit id="cKB-Tm-B6u" userLabel="Exit" sceneMemberID="exit"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="30S-kr-jjM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="1896" y="-200"/>
+=======
+            <point key="canvasLocation" x="2013" y="-424"/>
+>>>>>>> lxf-github/master
         </scene>
         <!--Item Detial View Controller-->
         <scene sceneID="BQW-Za-HGt">
@@ -241,7 +249,11 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZqA-cf-vfs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="1284" y="460"/>
+=======
+            <point key="canvasLocation" x="1284" y="612"/>
+>>>>>>> lxf-github/master
         </scene>
         <!--Modified View Controller-->
         <scene sceneID="h3r-JA-Xp7">
@@ -339,7 +351,11 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rHQ-pb-ys0" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="V9m-zD-jGo" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="1896" y="460"/>
+=======
+            <point key="canvasLocation" x="1856" y="611"/>
+>>>>>>> lxf-github/master
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="DDo-vW-KMR">
@@ -376,7 +392,11 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zH9-SO-DNj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="1284" y="-206"/>
+=======
+            <point key="canvasLocation" x="1284" y="-424"/>
+>>>>>>> lxf-github/master
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

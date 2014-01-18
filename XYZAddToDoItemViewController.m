@@ -8,17 +8,27 @@
 
 #import "XYZAddToDoitemViewController.h"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> lxf-github/master
 @interface XYZAddToDoItemViewController ()
 @property (weak, nonatomic) IBOutlet UITextField *textField;
 @property (weak, nonatomic) IBOutlet UIBarButtonItem *doneButton;
 @property (weak, nonatomic) IBOutlet UIDatePicker *OutDate;
 @property (strong, nonatomic) IBOutlet UIPickerView *itemType;
+<<<<<<< HEAD
 @property (strong, nonatomic) IBOutlet UIButton *addImageButton;
 @property (strong, nonatomic) IBOutlet UIImageView *itemImage;
 @property NSArray *types;
 
 @end
+=======
+@property NSArray *types;
+
+@end
+
+>>>>>>> lxf-github/master
 @implementation XYZAddToDoItemViewController
 @synthesize item = _item;
 
@@ -80,4 +90,11 @@
     
     [sender resignFirstResponder];
 }
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> lxf-github/master
 @end
